@@ -1,0 +1,13 @@
+{
+  "name": "jajouka79/charitable",
+  "description": "custom charity plugin",
+  "type":"wordpress-theme",
+  "minimum-stability" : "stable",
+  "authors": [
+      {
+          "name": "Simon Beasley",
+          "email": "simon.beasley@neveryoumind.com"
+      }
+  ],
+
+}
